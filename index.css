@@ -39,8 +39,6 @@ body{
 
 .sketchBox{
     flex: 1;
-    border: .001em solid lightslategray;
-    border-radius: 4px;
 }
 
 .sketchBox:hover{
